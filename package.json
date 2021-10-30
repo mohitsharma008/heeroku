@@ -12,6 +12,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.3.4",
     "express-router": "^0.0.1",
-    "hbs": "^4.1.2"
+    "hbs": "^4.1.2",
+    "heroku-pg-extras": "^1.0.3"
   }
 }
